@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any intresting project
 - 📫 How to reach me email me on tebogomonamodi08@gmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I love python and c++
+- ⚡ Fun fact: I am wrapped around python
 
 <!---
 tebogomonamodi08/tebogomonamodi08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
