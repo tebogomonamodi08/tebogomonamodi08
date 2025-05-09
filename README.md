@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tebogomonamodi08
-- 👀 I’m interested in python, flask and machine learning
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on any intresting project
-- 📫 How to reach me email me on tebogomonamodi08@gmail.com
+- 👀 I’m interested in python, fastapi and mastering system design
+- 🌱 I’m currently learning fastapi, system design and ADS
+- 💞️ I’m looking to collaborate on system design heavy projects
+- 📫 How to reach me email me on tebogomonamodi08@gmail.com I would love to hear from you
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I am wrapped around python
 
